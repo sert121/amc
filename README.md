@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # AMC v1.0
 
-AMC attempts a close replica of [Amazon.com](http://amazon.com/)  with additional color corrections and features.
+AMC attempts a close replica of [Amazon.com](http://amazon.com/)  with additional color corrections and features.  
 To view the deployed website, visit: [AMC_v1.0](https://am-c-3a089.web.app)
 
 ## Available Scripts
