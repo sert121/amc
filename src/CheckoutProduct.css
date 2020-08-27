@@ -2,7 +2,10 @@
 display: flex;
 margin-top: 1em;
 margin-left: 1em;
-
+/* background: rgb(236, 236, 231); */
+background-color:rgb(228, 229, 240);
+padding: 0.8em;
+/* border-radius: ; */
 }
 
 .checkout_product_info{
@@ -14,6 +17,7 @@ padding-left: 20px ;
     object-fit:contain;
     width:180px;
     height:180px;
+    background-color:rgb(228, 229, 240);
 }
 
 .checkout_product_title{
@@ -23,9 +27,6 @@ padding-left: 20px ;
 }
 
 
-.checkout_product_price{
-
-}
 
 
 .checkout_product_rating{
@@ -35,7 +36,7 @@ display:flex;
 .checkout_product_info > button{
     background-color: rgba(250, 182, 54, 0.68);
     border:1px solid;
-    border-color:#a88734 #9c7e31 #846a29;
+    border-color:#a88734;
     margin-top:10px;
     color:#111;
 }
